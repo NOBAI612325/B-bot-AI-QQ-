@@ -10,10 +10,7 @@
 
 最低系统：Android 7.0（minSdk 24）
 
-首次安装请允许"安装未知来源应用"
 
-
-安装包：B-bot-v1.0.9.apk
 
 
 
@@ -39,7 +36,7 @@ proot 引导程序已内置在 APK 里，无需额外下载
 
 三、支持的大模型服务商
 
-MiMo、DeepSeek、OpenAI、Kimi、Claude、豆包、通义千问、xAI，以及自定义（OpenAI 兼容协议）。
+MiMo、DeepSeek、OpenAI、Kimi、Claude、豆包、通义千问、xAI……，以及自定义（OpenAI 兼容协议）。
 
 
 四、回复规则
